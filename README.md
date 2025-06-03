@@ -2,8 +2,8 @@
 
 🚀 **Full-Stack Developer | MERN Stack | DSA Enthusiast | Problem Solver**
 
-I'm a Computer Science student passionate about building dynamic, responsive, and user-friendly web applications. 
-I focus on crafting full-stack solutions using the **MERN stack**, while consistently improving my **problem-solving abilities** through **Data Structures & Algorithms in Java**.
+- I'm a Computer Science student passionate about building dynamic, responsive, and user-friendly web applications. 
+- I focus on crafting full-stack solutions using the **MERN stack**, while consistently improving my **problem-solving abilities** through **Data Structures & Algorithms in Java**.
 
 Currently, I'm working on real-world projects, exploring clean code practices, and staying updated with modern web technologies.
 
