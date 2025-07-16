@@ -77,8 +77,13 @@ I aspire to become a proficient **Software Engineer**, with a strong foundation 
 
 ## 📊 GitHub Stats
 
-![Renu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renu-telugu&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renu-telugu&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-telugu&layout=compact&theme=radical)
+![Telugu Renuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renu-telugu&show_icons=true&theme=radical)
+
+<img src="https://streak-stats.demolab.com?user=Renu-telugu&theme=radical" alt="GitHub Streak" />
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renu-telugu&layout=compact&theme=radical)
+
+
+
 
 ---
